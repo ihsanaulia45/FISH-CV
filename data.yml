@@ -1,0 +1,10 @@
+# data.yaml
+train: ./data/train/images
+val: ./data/validation/images
+test: ./data/test/images
+
+# Jumlah kelas
+nc: 3
+
+# Nama kelas (pastikan urutannya sama dengan pemetaan di Langkah 2)
+names: ['Sea Bass', 'Striped Red Mullet', 'Trout']
